@@ -1,0 +1,2 @@
+https://www.w3schools.com/python/default.asp -> je kan de site vertalen naar het Nederlands
+https://www.spronck.net/pythonbook/pythonboek.pdf
